@@ -1,8 +1,4 @@
 <p align="left">
-  <img src="YOUR_BANNER_LINK" />
-</p>
-
-<p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=30&pause=2000&color=F7A1C4&center=true&vCenter=true&width=700&lines=Hi+there%2C+I+am+Jahnavi+Janapareddy+—+Data+Analyst" />
 </p>
 
