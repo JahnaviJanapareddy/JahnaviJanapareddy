@@ -12,7 +12,7 @@
 </p>
 👩🏻‍💻 Former Data Analyst at Cognizant
 </p>
-🎓 Studying **Digital Engineering** at Bauhaus University, Weimar
+🎓 Studying Msc.Digital Engineering at Bauhaus University, Weimar
 </p>
 🎓 Studied Mechanical enginnering at the Gitam University, India
 
